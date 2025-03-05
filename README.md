@@ -1,2 +1,53 @@
 # Kla4-Sued
 DIY E-Piano that is (almost) as good as a famous E-Piano
+
+## Components
+- Keyboard
+- Amp
+- Speaker
+- Headphone
+- Audio Interface
+- Stand
+- Pedal
+- Touchscreen
+- Pi
+- Buttons
+## Functions
+- Screen
+- LEDs für keys
+- Recording
+- Light Control
+- RGB!
+- USB charger
+- MIDI USB
+- Blätter-Piston?
+- USB Stick
+- Bluetooth MIDI
+- App
+- Verstellbarer Klavierhocker XD
+- USB Midi Keyboard Mode
+- AUX In
+- BT Audio In
+- AirPlay In
+- Chromecast Audio
+- Volumio!
+  - Spotify
+  - Apple Music
+  - 
+- Sheet Music Database
+  - Google Drive
+  - MuseScore
+  - iCloud
+  - OneDrive
+  - GitHub (lul)
+- Account
+  - GitHub :D
+- Speaker Beleuchtung :D
+- Speaker oben speaker unten
+- Microphone
+- Integrations
+  - Flowkey
+  - Piano app
+  - Sheet Music Pro app?
+  - PiaScore
+  - 
